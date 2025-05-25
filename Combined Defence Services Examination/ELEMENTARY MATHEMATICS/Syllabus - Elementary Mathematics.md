@@ -1,0 +1,21 @@
+- [ ] Ratio
+- [ ] Average
+- [ ] Time and Work
+- [ ] Time and Distance
+- [ ] Percentage
+- [ ] Profit Loss
+- [ ] Interest
+- [ ] Number System
+- [ ] Simplification
+- [ ] LCM HCF
+- [ ] Equations
+- [ ] Algebra
+- [ ] LCM HCF of Algebraic Factors
+- [ ] Sets
+- [ ] Logarithm
+- [ ] Geometry
+- [ ] Mensuration 2D
+- [ ] Mensuration 3D
+- [ ] Trigonometry
+- [ ] Height and Distance
+- [ ] Statistics
